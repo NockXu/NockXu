@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning how to not eat uranium
 - 📫 How to reach me : with feet
 - 😄 Pronouns: I/YOU/HE/SHE/IT/WE/YOU/THEM
-- ⚡ Fun fact: L'uranium est un élément chimique de symbole U et qui porte le numéro atomique 92. L'uranium naturel est constitué de trois isotopes : l'uranium 238, le plus lourd et le plus abondant, l'uranium 235 et l'uranium 234. L'uranium 235 est le seul isotope fissile.
+- ⚡ Fun fact: Uranium is a chemical element; it has symbol U and atomic number 92. It is a silvery-grey metal in the actinide series of the periodic table. A uranium atom has 92 protons and 92 electrons, of which 6 are valence electrons. Uranium radioactively decays, usually by emitting an alpha particle.
 
 <!---
 NockXu/NockXu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
