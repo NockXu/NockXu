@@ -1,112 +1,103 @@
-# 👋 Salut, je suis @NockXu
+# 👋 Salut, je suis NockXu
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=D%C3%A9veloppeur+Full+Stack+%7C+Penseur+Cr%C3%A9atif;Toujours+en+apprentissage%2C+toujours+en+%C3%A9volution;Passionn%C3%A9+par+le+code+propre" alt="Typing SVG" />
+  
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=D%C3%A9veloppeur+Full+Stack;Toujours+en+apprentissage;Passionn%C3%A9+par+le+code+propre)
+  
 </div>
 
 ## 🚀 À propos de moi
 
-Développeur passionné avec un sens de l'humour unique et un amour pour l'exploration de l'inhabituel. Même si je plaisante parfois sur des choses farfelues, ma vraie passion réside dans la création de solutions élégantes à des problèmes complexes.
+Développeur passionné avec un sens de l'humour unique et un amour pour l'exploration de l'inhabituel. Ma vraie passion réside dans la création de solutions élégantes à des problèmes complexes.
 
-- 🔭 **Actuellement en train de travailler sur** : La création de mon portfolio
-- 🌱 **Actuellement en train d'apprendre** : Comment ne pas manger d'uranium (blague récurrente !)
-- 👯 **Cherche à collaborer sur** : Des projets de développement innovants
-- 🤔 **Besoin d'aide pour** : Trouver un stage
-- 💬 **Demande-moi** : N'importe quoi sur le dev, la tech ou les blagues absurdes
-- 📫 **Comment me contacter** : Avec tes pieds ! (ou par email, c'est plus conventionnel)
-- ⚡ **Fun fact** : Je collectionne les faits inutiles sur les éléments chimiques
+```javascript
+const nockxu = {
+    code: ["JavaScript", "TypeScript", "Python", "Java", "C++"],
+    technologies: {
+        frontend: ["React", "Vue", "HTML", "CSS"],
+        backend: ["Node.js", "Express"],
+        tools: ["Git", "GitHub", "VSCode", "Docker"]
+    },
+    currentFocus: "Création de mon portfolio",
+    currentLearning: "Comment ne pas manger d'uranium 😄",
+    lookingFor: "Stage en développement",
+    funFact: "Je collectionne les faits inutiles sur les éléments chimiques"
+};
+```
 
 ## 🛠️ Stack Technique
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,vue,python,java,cpp,html,css,nodejs,git,github,vscode,docker" />
-</div>
 
-### Langages & Frameworks
-```text
-JavaScript/TypeScript  ████████████░░  85%
-Python                 ███████████░░░  80%
-React/Vue              ██████████░░░░  75%
-Java/C++               ████████░░░░░░  65%
-```
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</div>
 
 ## 📊 Statistiques GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NockXu&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NockXu&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Top Languages"/>
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NockXu&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NockXu&layout=compact&theme=radical)
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NockXu&theme=radical)
+
 </div>
 
-## 🔥 Activité GitHub
+## 🏆 Mes Objectifs 2026
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NockXu&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
-</div>
+- 🚀 Construire 3 projets full-stack complets
+- 🌟 Contribuer à 5 projets open source
+- 💼 Décrocher un stage de rêve
+- 📚 Maîtriser une nouvelle techno chaque trimestre
+- ⚛️ Ne pas céder à la tentation de l'uranium
 
-## 🏆 Trophées GitHub
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NockXu&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
-</div>
-
-## 💼 Projets Notables
-
-<div align="center">
-  <a href="https://github.com/NockXu/projet-1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NockXu&repo=projet-1&theme=radical&hide_border=true" />
-  </a>
-  <a href="https://github.com/NockXu/projet-2">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NockXu&repo=projet-2&theme=radical&hide_border=true" />
-  </a>
-</div>
-
-## 🎯 Objectifs 2026
-
-- [ ] Construire 3 projets full-stack
-- [ ] Contribuer à 5 projets open source
-- [ ] Décrocher un stage de rêve
-- [ ] Maîtriser une nouvelle techno chaque trimestre
-- [ ] Ne pas céder à la tentation de l'uranium
-
-## 🤝 Connecte-toi avec moi
-
-<div align="center">
-  <a href="https://github.com/NockXu" target="_blank">
-    <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="mailto:ton-email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://linkedin.com/in/ton-profil" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/ton-handle" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-</div>
-
----
-
-## 😄 Citation du Jour
+## 💡 Citation Inspirante
 
 > *"Le code est comme l'humour. Quand tu dois l'expliquer, c'est mauvais."* – Cory House
 
----
-
-## 📈 Graphique d'Activité
+## 📫 Comment me contacter
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NockXu&theme=redical&hide_border=true&area=true" alt="Activity Graph"/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-NockXu-181717?style=for-the-badge&logo=github)](https://github.com/NockXu)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ton-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ton-profil)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ton-portfolio.com)
+
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+  
+### ⚡ Fun Fact sur l'Uranium
+
+> L'uranium est un élément chimique de symbole U et de numéro atomique 92. C'est un métal gris argenté de la série des actinides. Un atome d'uranium possède 92 protons et 92 électrons, dont 6 sont des électrons de valence. L'uranium se désintègre radioactivement, généralement en émettant une particule alpha.
+
 </div>
 
+---
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=NockXu&style=for-the-badge&color=2F81F7" alt="Profile Views"/>
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=NockXu&style=for-the-badge&color=blue)
+  
+  **Merci de ta visite ! N'hésite pas à explorer mes projets 🚀**
+
 </div>
 
 <!---
