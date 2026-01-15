@@ -23,26 +23,14 @@ I'm a passionate developer with a unique sense of humor and a love for exploring
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NockXu&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NockXu&layout=compact&langs_count=8&theme=radical" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NockXu&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NockXu&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Top Languages"/>
 </div>
 
-## 🏆 GitHub Trophies
+## 🔥 GitHub Activity
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NockXu&theme=radical&no-frame=true&no-bg=true" alt="GitHub Trophies"/>
-</div>
-
-## 🔥 Streak Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NockXu&theme=radical&hide_border=true" alt="GitHub Streak"/>
-</div>
-
-## � Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NockXu&theme=radical&hide_border=true" alt="Activity Graph"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NockXu&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&currStreakLabel=Current%20Streak" alt="GitHub Streak"/>
 </div>
 
 ## 🤝 Connect With Me
@@ -59,10 +47,6 @@ I'm a passionate developer with a unique sense of humor and a love for exploring
 ---
 
 ## 😄 Fun Facts
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote"/>
-</div>
 
 > **⚡ Fun fact**: Uranium is a chemical element with symbol U and atomic number 92. It's a silvery-grey metal in the actinide series. A uranium atom has 92 protons and 92 electrons, of which 6 are valence electrons. Uranium radioactively decays, usually by emitting an alpha particle.
 
