@@ -2,9 +2,11 @@
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=D%C3%A9veloppeur+Full+Stack;Toujours+en+apprentissage;Passionn%C3%A9+par+le+code+propre)
+  ### Développeur Full Stack | Toujours en apprentissage | Passionné par le code propre
   
 </div>
+
+---
 
 ## 🚀 À propos de moi
 
@@ -25,6 +27,8 @@ const nockxu = {
 };
 ```
 
+---
+
 ## 🛠️ Stack Technique
 
 <div align="center">
@@ -36,6 +40,7 @@ const nockxu = {
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -45,29 +50,41 @@ const nockxu = {
 
 </div>
 
-## 📊 Statistiques GitHub
+---
 
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NockXu&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NockXu&layout=compact&theme=radical)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NockXu&theme=radical)
+## 🎯 Ce que je fais
 
-</div>
+- 💻 **Développement Full Stack** - Création d'applications web modernes et performantes
+- 🎨 **UI/UX** - Design d'interfaces intuitives et élégantes
+- 🔧 **Optimisation** - Amélioration des performances et de la qualité du code
+- 📚 **Apprentissage continu** - Toujours à la recherche de nouvelles technologies à maîtriser
+
+---
 
 ## 🏆 Mes Objectifs 2026
 
-- 🚀 Construire 3 projets full-stack complets
-- 🌟 Contribuer à 5 projets open source
-- 💼 Décrocher un stage de rêve
-- 📚 Maîtriser une nouvelle techno chaque trimestre
-- ⚛️ Ne pas céder à la tentation de l'uranium
+✅ Construire 3 projets full-stack complets  
+✅ Contribuer à 5 projets open source  
+✅ Décrocher un stage de rêve  
+✅ Maîtriser une nouvelle techno chaque trimestre  
+✅ Ne pas céder à la tentation de l'uranium  
+
+---
+
+## 💼 Projets en cours
+
+🚧 **Portfolio Personnel** - Site web showcase de mes projets et compétences  
+🚧 **Application Web Full Stack** - [Décris ton projet ici]  
+🚧 **Contributions Open Source** - Participation active à la communauté  
+
+---
 
 ## 💡 Citation Inspirante
 
-> *"Le code est comme l'humour. Quand tu dois l'expliquer, c'est mauvais."* – Cory House
+> *"Le code est comme l'humour. Quand tu dois l'expliquer, c'est mauvais."*  
+> – Cory House
+
+---
 
 ## 📫 Comment me contacter
 
@@ -83,10 +100,12 @@ const nockxu = {
 ---
 
 <div align="center">
-  
+
 ### ⚡ Fun Fact sur l'Uranium
 
 > L'uranium est un élément chimique de symbole U et de numéro atomique 92. C'est un métal gris argenté de la série des actinides. Un atome d'uranium possède 92 protons et 92 électrons, dont 6 sont des électrons de valence. L'uranium se désintègre radioactivement, généralement en émettant une particule alpha.
+
+**💀 Note importante : Ne pas consommer d'uranium, même par curiosité scientifique ! 💀**
 
 </div>
 
@@ -94,7 +113,7 @@ const nockxu = {
 
 <div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=NockXu&style=for-the-badge&color=blue)
+  ![Profile Views](https://komarev.com/ghpvc/?username=NockXu&style=flat-square&color=blue)
   
   **Merci de ta visite ! N'hésite pas à explorer mes projets 🚀**
 
